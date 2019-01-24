@@ -1,0 +1,10 @@
+*.exe
+*.o
+./doxygen
+./obj
+./bin
+*.vscode
+练习.cpp
+练习.ex
+练习.o
+node_modules
