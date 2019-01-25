@@ -3,7 +3,7 @@
 #include <cstdio>
 #include <vector>
 #include <cmath>
-#include <stdlib.h>
+#include <stdlib.h> // 通过stdlib.h引入system api, 避免在服务器Linux环境下，#include <window.h>而产生的编译错误
 
 using namespace std;
 
